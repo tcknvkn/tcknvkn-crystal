@@ -1,0 +1,3 @@
+repository=tcknvkn-crystal
+visibility=public
+description=Crystal için TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama kütüphanesi.

@@ -1,0 +1,27 @@
+# -----------------------------------------------------------------------------
+# Proje: tcknvkn-crystal
+# Dosya: shard.yml
+# Açıklama: Crystal projeleri için TCKN ve VKN doğrulama kütüphane yapılandırması.
+# Oluşturma Tarihi: 2026-04-24
+# Lisans: MIT
+# Site: https://www.tcknvkn.com
+# -----------------------------------------------------------------------------
+name: tcknvkn
+version: 1.0.0
+
+authors:
+  - TCKNVKN <239645710+tckn-vkn@users.noreply.github.com>
+
+description: |
+  Crystal projeleri için TCKN ve VKN doğrulama fonksiyonları.
+
+license: MIT
+crystal: ">= 1.8.0"
+
+repository: https://github.com/tcknvkn/tcknvkn-crystal
+
+keywords:
+  - tckn
+  - vkn
+  - doğrulama
+  - crystal
